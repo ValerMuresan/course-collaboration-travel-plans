@@ -19,6 +19,7 @@ body {
     margin: auto;
     padding: 1em;
     width: 80%;
+    font-family: 'Sniglet', cursive;
 }
 
 .destination-container {
@@ -57,4 +58,16 @@ h2 {
 
 #barcelona {
     background-color: #800000;
+}
+
+#florida {
+  background-color: #42f450;
+}
+
+#paris {
+  background-color: #f49842;
+}
+
+#scotland {
+  background-color: #e20404;
 }
